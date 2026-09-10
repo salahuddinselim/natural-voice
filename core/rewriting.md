@@ -44,7 +44,11 @@ Final writing
    or compare against an Author Voice Profile when one exists (see `voice-model.md`;
    implemented: `profile/`, `comparison/`, `revision/`).
 4. **Identify unnecessary/generic wording** — filler openers, empty intensifiers,
-   redundant pairs, formulaic transitions that carry no logical relation.
+   redundant pairs, formulaic transitions that carry no logical relation. For
+   named, checkable patterns (em-dash overuse, vague attributions, "delve"/
+   "tapestry"-class vocabulary, forced rule-of-three, copula avoidance, and
+   more) see `references/ai-phrasing-patterns.md` — flag clusters, not
+   isolated instances, per the conservative-editing rule below.
 5. **Improve clarity** — concrete verbs, resolved pronouns, trimmed qualification.
 6. **Improve sentence flow** — vary length only within the author's existing range;
    fix awkward order; do not impose a foreign rhythm.

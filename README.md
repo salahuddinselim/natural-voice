@@ -88,6 +88,14 @@ used as future writing-analysis signals, never as an authorship detector. Report
 results (e.g. RF/XGB F1 ≈ 0.9993) are cited strictly with their experimental context
 (the paper's Wikipedia setup) and are not generalized.
 
+Step 4 of the rewriting pipeline (`core/rewriting.md`, "identify unnecessary/generic
+wording") also draws on the concrete phrasing catalog in
+`references/ai-phrasing-patterns.md`, adapted from
+[Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+(WikiProject AI Cleanup). Same rule as the paper: the catalog is cited, its use here
+is a Natural Voice engineering decision, and a match is evidence about phrasing
+quality — never about authorship.
+
 ## Important Boundary
 
 Natural Voice does not guarantee or advertise:

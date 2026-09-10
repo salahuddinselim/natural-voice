@@ -19,7 +19,9 @@ Relative to the repository root:
 - `analysis/feature-spec.md` — profile-vs-draft comparison method + interpretation categories
 - `core/research.md` — research summary + findings-vs-decisions rule
 - `references/research-foundation.md` — detailed paper methodology
-- `references/writing-patterns.md` — practical editing signals
+- `references/writing-patterns.md` — statistical/structural editing signals
+- `references/ai-phrasing-patterns.md` — named, concrete phrasing defects
+  (em-dash overuse, vague attributions, AI-vocabulary words, and more)
 
 If a conflict arises between this adapter and the core, the core wins on methodology;
 this adapter wins only on OpenCode mechanics (triggering, tool use, output delivery).
@@ -65,8 +67,9 @@ Do not activate for unrelated requests. Never proactively rewrite files the user
 4. Apply the output contract from `core/rewriting.md`: revised text, 3–7 change bullets,
    flags only if needed. No reasoning traces.
 5. Consult `references/writing-patterns.md` when diagnosing repetition, transitions, or
-   paragraph issues. Consult `references/research-foundation.md` only if the user asks
-   about the research basis — never to render an authorship verdict.
+   paragraph issues, and `references/ai-phrasing-patterns.md` when diagnosing generic/
+   clichéd phrasing (step 4 of the pipeline). Consult `references/research-foundation.md`
+   only if the user asks about the research basis — never to render an authorship verdict.
 6. Voice-profile requests (builder implemented in v0.4: `profile/`, local only):
    - "Analyze these samples" / "show my writing characteristics": run the builder
      (`build_profile` / `build_profile_from_files`, or the CLI:
