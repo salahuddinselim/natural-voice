@@ -1,0 +1,11 @@
+# Natural Voice revision engine — runtime dependencies.
+#
+# None beyond the sibling packages (all stdlib-only, Python 3.10+):
+#   natural_voice_analyzer, natural_voice_profile, natural_voice_comparison,
+#   and the top-level `llm` provider package in this repository.
+# No install step: run from the `revision/` directory (plus repo root on the
+# path for `llm`), or put `analyzer/`, `profile/`, `comparison/`, `revision/`
+# and the repo root on PYTHONPATH. Real LLM providers are injected by the
+# caller; the mock provider needs no credentials and no network.
+#
+# Tests use the standard-library `unittest` framework: no test dependencies.

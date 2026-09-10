@@ -1,0 +1,9 @@
+The analyzer reads plain text and reports descriptive measurements. It counts words, sentences, and paragraphs without judging the writing in any way.
+
+Short sentences vary the rhythm. Longer sentences, such as this one, carry explanations that need more room to develop before they can conclude; the mix of lengths is simply recorded as numbers.
+
+Punctuation matters for style: commas separate clauses, colons introduce lists — apples, oranges, pears — and parentheses add asides (like this one). Questions appear rarely in reports? Exclamations almost never do!
+
+The analyzer also records repeated terms. In this sample, the words "analyzer" and "sample" recur deliberately, so the N-gram inventory has something to find: the analyzer processes the sample, the sample exercises the analyzer, and the analyzer reports the sample. Technical terms such as JSON stay untouched because the analyzer never rewrites anything.
+
+Finally, readability estimates summarize surface complexity. They describe the text; they do not grade the author, and they certainly do not guess who wrote it.

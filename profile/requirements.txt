@@ -1,0 +1,7 @@
+# Natural Voice profile builder — runtime dependencies.
+#
+# None beyond the sibling `natural_voice_analyzer` package (itself stdlib-only,
+# Python 3.10+). No install step: run from the `profile/` directory or put both
+# `analyzer/` and `profile/` on PYTHONPATH.
+#
+# Tests use the standard-library `unittest` framework: no test dependencies.

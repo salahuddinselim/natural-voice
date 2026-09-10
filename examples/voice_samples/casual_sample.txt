@@ -1,0 +1,7 @@
+SYNTHETIC DEMONSTRATION DATA — invented for documentation, not a real person's writing.
+
+That draft is close! The middle paragraph runs a bit long though, so I would split it in two. The tone is fine, so leave that part alone.
+
+Can you check the numbers in the second half? I think one of them changed since yesterday. Everything else looks good to me.
+
+Short version: split the middle, verify the figures, and ship it.

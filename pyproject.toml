@@ -1,0 +1,54 @@
+# Natural Voice packaging (PEP 517/621, setuptools, stdlib-only core).
+#
+# The core has zero third-party runtime dependencies; provider adapters here are
+# also stdlib-based (urllib), so the extras below are intentionally empty lists:
+# they document the intended `pip install natural-voice[openai]` shape for the
+# day a provider needs an SDK, without pulling anything today.
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "natural-voice"
+version = "0.8.0"
+description = "Voice-consistent writing assistance: local style analysis plus validated LLM revision"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "UNSET — licensing decision required before distribution (see README)" }
+dependencies = []
+
+[project.optional-dependencies]
+openai = []
+anthropic = []
+dev = []
+
+[project.scripts]
+natural-voice = "natural_voice_cli.main:main"
+
+[tool.setuptools]
+packages = [
+  "natural_voice_analyzer",
+  "natural_voice_profile",
+  "natural_voice_comparison",
+  "natural_voice_revision",
+  "natural_voice_config",
+  "natural_voice_cli",
+  "llm",
+  "providers",
+  "providers.mock",
+  "providers.openai_compatible",
+  "providers.anthropic",
+  "adapters",
+]
+
+[tool.setuptools.package-dir]
+natural_voice_analyzer = "analyzer/natural_voice_analyzer"
+natural_voice_profile = "profile/natural_voice_profile"
+natural_voice_comparison = "comparison/natural_voice_comparison"
+natural_voice_revision = "revision/natural_voice_revision"
+natural_voice_config = "natural_voice_config"
+natural_voice_cli = "natural_voice_cli"
+llm = "llm"
+providers = "providers"
+adapters = "adapters"

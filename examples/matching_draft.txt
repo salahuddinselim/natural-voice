@@ -1,0 +1,10 @@
+TEST FIXTURE — synthetic draft for comparison testing, not real writing.
+This draft deliberately shares the example profile's measurable habits.
+
+I revised the opening paragraph first. It now states the point directly, and the rest follows from there. Short paragraphs keep each idea separate, so readers never have to untangle two thoughts at once.
+
+For example, the methods section lists each step in order. First it names the input it expects. Then it describes the check it performs. Finally, it notes what happens when the check fails. That order matches my usual pattern.
+
+The numbers stayed the same throughout the edit. I kept every term exact and only trimmed filler around them. The tone is plain and direct, which is how I normally write these notes.
+
+My last pass cut repeated phrases and split one long sentence. The draft is shorter now, but nothing it claims has changed.

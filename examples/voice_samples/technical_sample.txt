@@ -1,0 +1,7 @@
+SYNTHETIC DEMONSTRATION DATA — invented for documentation, not a real person's writing.
+
+The build_profile function accepts a list of strings and returns a dictionary. It analyzes each sample once, then aggregates the results into per-feature statistics. Empty samples are skipped and counted in the metadata.
+
+Weighting uses the square root of each sample's word count. A sample with one hundred times more words therefore carries ten times the weight, not one hundred times. This keeps long documents from dominating the profile while still giving them more influence than short ones.
+
+The output is JSON-serializable. Floats are rounded to four decimals, and missing values are null rather than invented. Use save_profile to write the result to disk with deterministic formatting.

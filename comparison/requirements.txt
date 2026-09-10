@@ -1,0 +1,8 @@
+# Natural Voice comparison engine — runtime dependencies.
+#
+# None beyond the sibling `natural_voice_analyzer` and `natural_voice_profile`
+# packages (both stdlib-only, Python 3.10+). No install step: run from the
+# `comparison/` directory or put `analyzer/`, `profile/`, and `comparison/`
+# on PYTHONPATH.
+#
+# Tests use the standard-library `unittest` framework: no test dependencies.

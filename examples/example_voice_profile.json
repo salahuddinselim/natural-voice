@@ -1,0 +1,1170 @@
+{
+  "profile_version": "0.1.0",
+  "metadata": {
+    "sample_count": 4,
+    "total_words": 435,
+    "language": "en",
+    "context": "general",
+    "analyzer_version": "0.1.0",
+    "skipped_samples": 0
+  },
+  "vocabulary": {
+    "diversity": {
+      "mean": 0.7915,
+      "median": 0.8014,
+      "std": 0.0231,
+      "min": 0.7541,
+      "max": 0.8125,
+      "n": 4,
+      "typical_range": [
+        0.7684,
+        0.8146
+      ]
+    },
+    "diversity_stability": "stable",
+    "guiraud_r": {
+      "mean": 8.2919,
+      "median": 8.3695,
+      "std": 0.8248,
+      "min": 6.9054,
+      "max": 9.1924,
+      "n": 4,
+      "typical_range": [
+        7.4671,
+        9.1167
+      ]
+    },
+    "average_word_length": {
+      "mean": 5.1401,
+      "median": 4.9388,
+      "std": 0.6021,
+      "min": 4.4932,
+      "max": 6.0,
+      "n": 4,
+      "typical_range": [
+        4.538,
+        5.7422
+      ]
+    },
+    "median_word_length": {
+      "mean": 4.6785,
+      "median": 4.25,
+      "std": 0.8197,
+      "min": 4,
+      "max": 6.0,
+      "n": 4,
+      "typical_range": [
+        3.8589,
+        5.4982
+      ]
+    },
+    "common_terms": [
+      {
+        "term": "the",
+        "count": 26,
+        "frequency": 0.0618,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "a",
+        "count": 12,
+        "frequency": 0.0273,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "for",
+        "count": 8,
+        "frequency": 0.018,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "invented",
+        "count": 5,
+        "frequency": 0.0117,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "not",
+        "count": 5,
+        "frequency": 0.0117,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "data",
+        "count": 5,
+        "frequency": 0.0116,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "demonstration",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "documentation",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "person's",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "real",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "synthetic",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "writing",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "that",
+        "count": 7,
+        "frequency": 0.0233,
+        "sample_presence": 0.75
+      },
+      {
+        "term": "in",
+        "count": 6,
+        "frequency": 0.0203,
+        "sample_presence": 0.75
+      },
+      {
+        "term": "i",
+        "count": 10,
+        "frequency": 0.0494,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "it",
+        "count": 6,
+        "frequency": 0.0316,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "is",
+        "count": 4,
+        "frequency": 0.0215,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "and",
+        "count": 5,
+        "frequency": 0.0212,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "to",
+        "count": 5,
+        "frequency": 0.0212,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "paragraph",
+        "count": 3,
+        "frequency": 0.0147,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "each",
+        "count": 3,
+        "frequency": 0.0127,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "one",
+        "count": 3,
+        "frequency": 0.0127,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "paragraphs",
+        "count": 3,
+        "frequency": 0.0123,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "middle",
+        "count": 2,
+        "frequency": 0.0274,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "so",
+        "count": 2,
+        "frequency": 0.0274,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "split",
+        "count": 2,
+        "frequency": 0.0274,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "are",
+        "count": 3,
+        "frequency": 0.0246,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "profile",
+        "count": 3,
+        "frequency": 0.0246,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "times",
+        "count": 3,
+        "frequency": 0.0246,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "length",
+        "count": 3,
+        "frequency": 0.0234,
+        "sample_presence": 0.25
+      }
+    ]
+  },
+  "sentence_structure": {
+    "average_length": {
+      "mean": 11.2155,
+      "median": 11.1909,
+      "std": 1.4867,
+      "min": 9.125,
+      "max": 12.8,
+      "n": 4,
+      "typical_range": [
+        9.7288,
+        12.7022
+      ]
+    },
+    "length_stability": "stable",
+    "median_length": {
+      "mean": 11.2778,
+      "median": 11.25,
+      "std": 1.6724,
+      "min": 9.0,
+      "max": 13.0,
+      "n": 4,
+      "typical_range": [
+        9.6054,
+        12.9502
+      ]
+    },
+    "short_ratio": {
+      "mean": 0.5813,
+      "median": 0.5636,
+      "std": 0.2073,
+      "min": 0.4,
+      "max": 0.875,
+      "n": 4,
+      "typical_range": [
+        0.3741,
+        0.7886
+      ]
+    },
+    "medium_ratio": {
+      "mean": 0.4187,
+      "median": 0.4364,
+      "std": 0.2073,
+      "min": 0.125,
+      "max": 0.6,
+      "n": 4,
+      "typical_range": [
+        0.2114,
+        0.6259
+      ]
+    },
+    "long_ratio": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n": 4,
+      "typical_range": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "paragraph_structure": {
+    "average_words_per_paragraph": {
+      "mean": 27.7485,
+      "median": 29.25,
+      "std": 5.3542,
+      "min": 18.25,
+      "max": 32.0,
+      "n": 4,
+      "typical_range": [
+        22.3942,
+        33.1027
+      ]
+    },
+    "size_stability": "moderate",
+    "average_sentences_per_paragraph": {
+      "mean": 2.4608,
+      "median": 2.5,
+      "std": 0.2724,
+      "min": 2.0,
+      "max": 2.75,
+      "n": 4,
+      "typical_range": [
+        2.1884,
+        2.7332
+      ]
+    },
+    "median_words_per_paragraph": {
+      "mean": 30.5582,
+      "median": 32.0,
+      "std": 7.7902,
+      "min": 17.0,
+      "max": 38.0,
+      "n": 4,
+      "typical_range": [
+        22.768,
+        38.3484
+      ]
+    }
+  },
+  "punctuation": {
+    ".": {
+      "per_100_words": {
+        "mean": 8.511,
+        "median": 8.208,
+        "std": 0.7728,
+        "min": 7.8125,
+        "max": 9.8214,
+        "n": 4,
+        "typical_range": [
+          7.7382,
+          9.2838
+        ]
+      }
+    },
+    ",": {
+      "per_100_words": {
+        "mean": 5.8101,
+        "median": 6.5496,
+        "std": 1.5361,
+        "min": 3.2787,
+        "max": 7.1429,
+        "n": 4,
+        "typical_range": [
+          4.274,
+          7.3462
+        ]
+      }
+    },
+    ";": {
+      "per_100_words": {
+        "mean": 0.0,
+        "median": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 4,
+        "typical_range": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    ":": {
+      "per_100_words": {
+        "mean": 0.4952,
+        "median": 0.3906,
+        "std": 0.5766,
+        "min": 0.0,
+        "max": 1.3699,
+        "n": 4,
+        "typical_range": [
+          -0.0815,
+          1.0718
+        ]
+      }
+    },
+    "!": {
+      "per_100_words": {
+        "mean": 0.2821,
+        "median": 0.0,
+        "std": 0.5932,
+        "min": 0.0,
+        "max": 1.3699,
+        "n": 4,
+        "typical_range": [
+          -0.3111,
+          0.8753
+        ]
+      }
+    },
+    "?": {
+      "per_100_words": {
+        "mean": 0.2821,
+        "median": 0.0,
+        "std": 0.5932,
+        "min": 0.0,
+        "max": 1.3699,
+        "n": 4,
+        "typical_range": [
+          -0.3111,
+          0.8753
+        ]
+      }
+    },
+    "(": {
+      "per_100_words": {
+        "mean": 0.0,
+        "median": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 4,
+        "typical_range": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    ")": {
+      "per_100_words": {
+        "mean": 0.0,
+        "median": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 4,
+        "typical_range": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "-": {
+      "per_100_words": {
+        "mean": 0.6495,
+        "median": 0.3906,
+        "std": 0.6769,
+        "min": 0.0,
+        "max": 1.6393,
+        "n": 4,
+        "typical_range": [
+          -0.0274,
+          1.3264
+        ]
+      }
+    },
+    "—": {
+      "per_100_words": {
+        "mean": 0.9412,
+        "median": 0.8563,
+        "std": 0.2367,
+        "min": 0.7812,
+        "max": 1.3699,
+        "n": 4,
+        "typical_range": [
+          0.7045,
+          1.1778
+        ]
+      }
+    },
+    "\"": {
+      "per_100_words": {
+        "mean": 0.0,
+        "median": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 4,
+        "typical_range": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "density": {
+      "mean": 0.1697,
+      "median": 0.1714,
+      "std": 0.024,
+      "min": 0.1393,
+      "max": 0.2055,
+      "n": 4,
+      "typical_range": [
+        0.1458,
+        0.1937
+      ]
+    }
+  },
+  "readability": {
+    "flesch_reading_ease": {
+      "mean": 60.9877,
+      "median": 67.6599,
+      "std": 17.0849,
+      "min": 34.5571,
+      "max": 79.3649,
+      "n": 4,
+      "typical_range": [
+        43.9028,
+        78.0727
+      ]
+    },
+    "flesch_kincaid_grade": {
+      "mean": 7.539,
+      "median": 6.6022,
+      "std": 2.7153,
+      "min": 4.4564,
+      "max": 11.6192,
+      "n": 4,
+      "typical_range": [
+        4.8237,
+        10.2543
+      ]
+    },
+    "gunning_fog": {
+      "mean": 10.7589,
+      "median": 9.7486,
+      "std": 2.9022,
+      "min": 7.4856,
+      "max": 15.12,
+      "n": 4,
+      "typical_range": [
+        7.8567,
+        13.6611
+      ]
+    },
+    "coleman_liau": {
+      "mean": 11.7377,
+      "median": 10.5736,
+      "std": 3.8865,
+      "min": 7.3759,
+      "max": 17.1675,
+      "n": 4,
+      "typical_range": [
+        7.8512,
+        15.6242
+      ]
+    },
+    "automated_readability_index": {
+      "mean": 8.3877,
+      "median": 7.4273,
+      "std": 3.544,
+      "min": 4.2952,
+      "max": 13.23,
+      "n": 4,
+      "typical_range": [
+        4.8437,
+        11.9318
+      ]
+    }
+  },
+  "linguistic": {
+    "pronoun_ratio": {
+      "mean": 0.0951,
+      "median": 0.0931,
+      "std": 0.0511,
+      "min": 0.0469,
+      "max": 0.1607,
+      "n": 4,
+      "typical_range": [
+        0.044,
+        0.1462
+      ]
+    },
+    "transitions_per_100_words": {
+      "mean": 5.6765,
+      "median": 6.0304,
+      "std": 1.9735,
+      "min": 3.125,
+      "max": 8.2192,
+      "n": 4,
+      "typical_range": [
+        3.703,
+        7.65
+      ]
+    },
+    "common_connectives": [
+      {
+        "term": "and",
+        "count": 7,
+        "frequency": 0.016,
+        "sample_presence": 1.0
+      },
+      {
+        "term": "so",
+        "count": 3,
+        "frequency": 0.0182,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "then",
+        "count": 2,
+        "frequency": 0.0086,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "therefore",
+        "count": 2,
+        "frequency": 0.008,
+        "sample_presence": 0.5
+      },
+      {
+        "term": "second",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "since",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "though",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "finally",
+        "count": 1,
+        "frequency": 0.0089,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "first",
+        "count": 1,
+        "frequency": 0.0089,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "for example",
+        "count": 1,
+        "frequency": 0.0089,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "instead",
+        "count": 1,
+        "frequency": 0.0089,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "while",
+        "count": 1,
+        "frequency": 0.0082,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "although",
+        "count": 1,
+        "frequency": 0.0078,
+        "sample_presence": 0.25
+      },
+      {
+        "term": "however",
+        "count": 1,
+        "frequency": 0.0078,
+        "sample_presence": 0.25
+      }
+    ]
+  },
+  "ngrams": {
+    "common_bigrams": [
+      {
+        "ngram": "a real",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "data invented",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "demonstration data",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "documentation not",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "for documentation",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "invented for",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "not a",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "person's writing",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "real person's",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "synthetic demonstration",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "the middle",
+        "count": 2,
+        "frequency": 0.0274,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "hundred times",
+        "count": 2,
+        "frequency": 0.0164,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "one hundred",
+        "count": 2,
+        "frequency": 0.0164,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "sentence length",
+        "count": 2,
+        "frequency": 0.0156,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "a bit",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "bit long",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "close the",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "draft is",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "i would",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "in two",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "is close",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "it in",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "long though",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "middle paragraph",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "paragraph runs",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "runs a",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "so i",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "split it",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "that draft",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "though so",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      }
+    ],
+    "common_trigrams": [
+      {
+        "ngram": "a real person's",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "data invented for",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "demonstration data invented",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "documentation not a",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "for documentation not",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "invented for documentation",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "not a real",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "real person's writing",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "synthetic demonstration data",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "one hundred times",
+        "count": 2,
+        "frequency": 0.0164,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "a bit long",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "bit long though",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "close the middle",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "draft is close",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "i would split",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "in two the",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "is close the",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "it in two",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "long though so",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "middle paragraph runs",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "paragraph runs a",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "person's writing that",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "runs a bit",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "so i would",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "split it in",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "that draft is",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "the middle paragraph",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "though so i",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "two the tone",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      },
+      {
+        "ngram": "would split it",
+        "count": 1,
+        "frequency": 0.0137,
+        "sample_presence": 0.25
+      }
+    ]
+  },
+  "patterns": {
+    "repeated_phrases": [
+      {
+        "ngram": "a real person's",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "data invented for",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "demonstration data invented",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "documentation not a",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "for documentation not",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "invented for documentation",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "not a real",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "real person's writing",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      },
+      {
+        "ngram": "synthetic demonstration data",
+        "count": 4,
+        "frequency": 0.0097,
+        "sample_presence": 1.0
+      }
+    ],
+    "recurring_connectives": [
+      "and",
+      "so",
+      "then",
+      "therefore",
+      "second",
+      "since",
+      "though",
+      "finally",
+      "first",
+      "for example"
+    ],
+    "structural_notes": [
+      "majority of sentences are short",
+      "typically short paragraphs"
+    ],
+    "note": "observable tendencies only; no beliefs, traits, or personal attributes are inferred"
+  },
+  "outlier_notes": [],
+  "confidence": {
+    "overall": "low",
+    "sample_count": 4,
+    "total_words": 435,
+    "skipped_samples": 0,
+    "feature_coverage": {
+      "sentence_structure.average_length": 4,
+      "vocabulary.type_token_ratio": 4,
+      "paragraph_structure.average_words_per_paragraph": 4,
+      "vocabulary.guiraud_r": 4,
+      "vocabulary.average_word_length": 4,
+      "vocabulary.median_word_length": 4,
+      "sentence_structure.median_length": 4,
+      "sentence_structure.short_ratio": 4,
+      "sentence_structure.medium_ratio": 4,
+      "sentence_structure.long_ratio": 4,
+      "paragraph_structure.average_sentences_per_paragraph": 4,
+      "paragraph_structure.median_words_per_paragraph": 4,
+      "punctuation..": 4,
+      "punctuation.,": 4,
+      "punctuation.;": 4,
+      "punctuation.:": 4,
+      "punctuation.!": 4,
+      "punctuation.?": 4,
+      "punctuation.(": 4,
+      "punctuation.)": 4,
+      "punctuation.-": 4,
+      "punctuation.—": 4,
+      "punctuation.\"": 4,
+      "punctuation.punctuation_density": 4,
+      "readability.flesch_reading_ease": 4,
+      "readability.flesch_kincaid_grade": 4,
+      "readability.gunning_fog": 4,
+      "readability.coleman_liau": 4,
+      "readability.automated_readability_index": 4,
+      "linguistic.pronoun_ratio": 4,
+      "linguistic.transitions_per_100_words": 4
+    },
+    "note": "engineering heuristic based on evidence quantity; not a statistical probability"
+  }
+}

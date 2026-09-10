@@ -1,0 +1,8 @@
+TEST FIXTURE — synthetic draft for comparison testing, not real writing.
+This draft deliberately differs from the example profile's measurable habits.
+
+Notwithstanding the considerable heterogeneity of the underlying corpora, the present investigation endeavors to characterize the distributional properties of syntactic elaboration across extended expository passages; furthermore, the methodological apparatus incorporates a panoply of supplementary diagnostics whose ostensible purpose is the comprehensive quantification of stylistic variability under conditions of deliberately maximized formality and lexical rarity.
+
+Consequently, the ensuing exposition — replete with subordinate constructions, parenthetical interpolations (which themselves ramify into further qualifications), and terminological fastidiousness — instantiates precisely the antithesis of brevity: sentences accrete clauses seriatim, paragraphs swell to encompass multifarious considerations within a single typographical block, and the resultant texture exemplifies periphrastic circumlocution rather than parsimonious directness.
+
+Such prolixity, while perhaps defensible as an object of scholarly contemplation, diverges categorically from concision.

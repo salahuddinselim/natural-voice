@@ -1,0 +1,7 @@
+# Natural Voice analyzer — runtime dependencies.
+#
+# None. The analyzer uses the Python 3.10+ standard library only
+# (re, json, argparse, statistics, collections, pathlib, unicodedata).
+# No install step is required to run it.
+#
+# Tests use the standard-library `unittest` framework: no test dependencies either.

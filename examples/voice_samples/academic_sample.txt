@@ -1,0 +1,7 @@
+SYNTHETIC DEMONSTRATION DATA — invented for documentation, not a real person's writing.
+
+This study examines how sentence length varies across expository paragraphs. The analysis considers three corpora, each sampled at regular intervals throughout the document. Although the corpora differ in subject matter, the measurement procedure remains identical for all of them.
+
+The results indicate a consistent preference for medium-length sentences. Short sentences appear primarily at paragraph boundaries, where they mark transitions between topics. Long sentences, by contrast, occur within paragraphs that develop a single argument in detail.
+
+These findings suggest that paragraph position predicts sentence length more reliably than topic does. However, the sample is small, and further research is needed before any general conclusion can be drawn. The data therefore support a modest claim: structure shapes rhythm.

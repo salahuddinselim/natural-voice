@@ -1,0 +1,34 @@
+# Secrets and local credentials
+.env
+.env.*
+*.key
+*.pem
+*credentials*.json
+
+# Private user data (never commit writing samples, profiles, drafts, reports)
+voice-profile*.json
+*profile-*.json
+my-samples/
+my-drafts/
+*.draft.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local caches and logs
+*.log
+.cache/

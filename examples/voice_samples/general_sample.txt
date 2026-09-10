@@ -1,0 +1,7 @@
+SYNTHETIC DEMONSTRATION DATA — invented for documentation, not a real person's writing.
+
+I take notes in short paragraphs. Each one holds a single idea, and I move on once it is written down. When an idea turns out to be complicated, I split it into steps instead of stretching the paragraph.
+
+For example, I define the term first. Then I show how it behaves in practice. Finally, I note the exception that always seems to exist. That order works well for me, so I keep using it.
+
+My drafts usually need trimming afterward. I cut filler phrases, merge repeated points, and check that the tone stayed consistent. The structure rarely needs much repair.
