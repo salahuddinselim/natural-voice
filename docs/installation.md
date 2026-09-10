@@ -5,7 +5,7 @@
 Requirements: Python 3.10+, no third-party runtime dependencies.
 
 ```bash
-git clone <repo-url> && cd natural-voice
+git clone https://github.com/salahuddinselim/natural-voice.git && cd natural-voice
 pip install .
 ```
 
